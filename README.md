@@ -1,1 +1,2 @@
 # odin-recipes
+this is the recipes-project from the foundations curriculum. it will demonstrate that I've learned how to create a new repo on GitHub, then cloning it in using the terminal. Hopefully I will write some good commit message. the project will show that I've learned the basics in HTML. 
